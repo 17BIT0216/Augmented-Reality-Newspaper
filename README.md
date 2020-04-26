@@ -1,5 +1,5 @@
 # AugmentedRealitynewspaper363
-This is an augmented reality newspaper built using SceneKit.
+This is an Augmented reality newspaper built using SceneKit.
 
 ABSTRACT:
 Augmented reality is an interesting feature in newspapers that takes readers beyond the printed page. It enables people to see a video, animation, or other unexpected content that is apparently located on a page of their newspaper. The illusion is created when an augmented reality program and the camera software of a smart phone or tablet work together. The newspaper must be viewed through the camera of the mobile device in order for the illusion to work. In addition, the device must be connected to the Internet.
