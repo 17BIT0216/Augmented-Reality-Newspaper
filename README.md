@@ -1,4 +1,4 @@
-# AugmentedRealitynewspaper363
+# Augmented Reality Newspaper
 This is an Augmented reality newspaper built using SceneKit.
 
 ABSTRACT:
