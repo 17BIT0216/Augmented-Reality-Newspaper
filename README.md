@@ -11,7 +11,7 @@ Newspapers around the globe have introduced Augmented Reality in their
 newspapers in an attempt to enhance their product and attract people
 especially youth to increase their waning number of readers.
 
-      PROPOSED SYSYTEM-
+ PROPOSED SYSYTEM-
       
 In these AR newspapers, moving scenes appeared on a page containing otherwise static content. This type of newspaper would be wonderful in real life, but it doesn't exist (yet). The appearance of movement on a page of today's newspapers is a trick that requires special equipment.
 The reader must have a smartphone or tablet with a camera as well as an Internet connection in order to use the AR features of a newspaper. In addition, the augmented reality software must be able to link to the software controlling the camera of the mobile device. This should be no problem when using an iOS or Android device.
@@ -20,7 +20,7 @@ OBJECT DETECTION AND TRACKING
 ARKit 1.5 added support for 2D image detection, letting you trigger an AR experience based on 2D images like posters, artwork, or signs. ARKit 2 extends this support to offer full 2D image tracking, so you can incorporate movable objects like product boxes or magazines into your AR experiences. ARKit 2 also adds the ability to detect known 3D objects like sculptures, toys, or furniture.
 
    
-     Marker-Based AR
+ Marker-Based AR
 The augmented reality in this newspaper is marker based. The steps in using the AR from this newspaper on a mobile device such as my iPhone were as follows. The newspaper app was available as a free download at the Apple Store.
 1. Openthenewspaperapp.
 2. Click the AR symbol on the front page of the app.
@@ -37,18 +37,19 @@ The augmented reality in this newspaper is marker based. The steps in using the 
    
       Hardware and software requirements: Hardware-
 ARKit support was coming to all iOS devices that will be getting the iOS 11 update. However, that is not the case as only selected iPhones will be supporting ARKit when iOS 11 drops later this year. This includes all iOS devices that are powered by Apple’s A9 or A10 chip. This means that ARKit will only work on the following devices:
- iPhone SE
- iPhone 6s
- iPhone 6s Plus
- iPhone 7
- iPhone 7 Plus
- iPad Pro (All three variants and models)
- New 9.7-inch iPad (2017)
+iPhone SE
+iPhone 6s
+iPhone 6s Plus
+iPhone 7
+iPhone 7 Plus
+iPad Pro (All three variants and models)
+New 9.7-inch iPad (2017)
 Software-
 Xcode: To Code the Application SKVideo node: To play the Videos SpriteKit: is 2D framework. Language: swift 4.0
  8
    
-     How Our Application Works:
+How Our Application Works:
+
 Basically there are two components
 Anchor : The Object to be detected. In this Case they are the pages of the Magazine.
 NODE : The item that will get displayed on the place of anchor.
@@ -56,7 +57,7 @@ In Our Case it is a video File
 CODE SNIPPETS:
  9
    
-      Improvements:-
+ Improvements:-
 Augmented reality in newspapers is potentially a very useful feature and could be a great enhancement to them in the future. I enjoy looking at digital content linked to newspaper articles. Based on my experience, however, the technology needs to be improved. I consider the following features to be very important in order for AR in newspapers to be effective.
  The augmented reality feature should be easy to use, reliable, and as foolproof as possible.
  The scanning and content loading process should be rapid. Instant or very nearly instant gratification is necessary in order for the technology to appeal to people.
@@ -66,7 +67,8 @@ Augmented reality in newspapers is potentially a very useful feature and could b
  Some people feel that the new content should contain movement or interactivity, since otherwise static material in the newspaper is simply being replaced with more static material. I don't mind seeing static digital content as long as it's rich in new information.
 10
    
-      CONCLUSION:
+  
+ CONCLUSION:
  The potential for Augmented Reality applications in newspaper sector particular in connection with the press, are enormous. Besides facing the unavoidable challenges AR Applications are chasing whatever is coming in the path. AR provides significant added value, both on the cultural and on the commercial levels. From analysis what is emerged is that newspaper publishing
  can work parallel without the need to completely replace them.
 These levels of next-generation mobile devices are looking forward with a possibility of adoption for AR solutions, which is a mainstream technology that is now unavoidable.
