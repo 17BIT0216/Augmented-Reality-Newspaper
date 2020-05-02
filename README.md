@@ -59,13 +59,18 @@ CODE SNIPPETS:
    
  Improvements:-
 Augmented reality in newspapers is potentially a very useful feature and could be a great enhancement to them in the future. I enjoy looking at digital content linked to newspaper articles. Based on my experience, however, the technology needs to be improved. I consider the following features to be very important in order for AR in newspapers to be effective.
- The augmented reality feature should be easy to use, reliable, and as foolproof as possible.
- The scanning and content loading process should be rapid. Instant or very nearly instant gratification is necessary in order for the technology to appeal to people.
- The digital content should offer added value to the print article.
- Ideally, the digital content should be obtainable only through the AR program and shouldn't be something that a person could find on the Internet on their own.
- If the content is available on the Internet and can be accessed via a web browser, it's very important that obtaining it through an AR program is a rapid and convenient process.
- Some people feel that the new content should contain movement or interactivity, since otherwise static material in the newspaper is simply being replaced with more static material. I don't mind seeing static digital content as long as it's rich in new information.
-10
+ The augmented reality feature should be easy to use, reliable, and as foolproof as possible. 
+ 
+ The scanning and content loading process should be rapid. Instant or very nearly instant gratification is necessary in order for the technology to appeal to people.
+
+The digital content should offer added value to the print article.
+
+Ideally, the digital content should be obtainable only through the AR program and shouldn't be something that a person could find on the Internet on their own.
+
+If the content is available on the Internet and can be accessed via a web browser, it's very important that obtaining it through an AR program is a rapid and convenient process.
+
+Some people feel that the new content should contain movement or interactivity, since otherwise static material in the newspaper is simply being replaced with more static material. I don't mind seeing static digital content as long as it's rich in new information.
+
    
   
  CONCLUSION:
